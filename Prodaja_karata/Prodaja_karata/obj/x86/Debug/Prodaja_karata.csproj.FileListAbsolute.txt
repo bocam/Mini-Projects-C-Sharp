@@ -1,0 +1,20 @@
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.exe
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.pdb
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.exe
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.pdb
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Glavna_froma.resources
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Podesavanja.resources
+C:\Users\Boca\Desktop\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.exe.config
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.exe.config
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.exe
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\bin\Debug\Prodaja_karata.pdb
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Glavna_froma.resources
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Podesavanja.resources
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.exe
+D:\mini-projekti tmp\TMP IK-Prodaja karata\Prodaja_karata\Prodaja_karata\obj\x86\Debug\Prodaja_karata.pdb
