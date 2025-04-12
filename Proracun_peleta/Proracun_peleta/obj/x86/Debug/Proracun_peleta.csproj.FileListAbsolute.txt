@@ -1,0 +1,21 @@
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.exe
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.pdb
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.exe
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.pdb
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.exe.config
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.frmGlavnaForma.resources
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.frmPodesavanja.resources
+C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.csprojResolveAssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.exe.config
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.exe
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\bin\Debug\Proracun_peleta.pdb
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.frmGlavnaForma.resources
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.frmPodesavanja.resources
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.exe
+D:\mini-projekti tmp\TMP IK-PELET\Proracun_peleta\Proracun_peleta\obj\x86\Debug\Proracun_peleta.pdb

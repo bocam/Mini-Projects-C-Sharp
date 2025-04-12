@@ -1,0 +1,18 @@
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\bin\Debug\Omov_zakon.exe
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\bin\Debug\Omov_zakon.pdb
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.Form1.resources
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.Properties.Resources.resources
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.exe
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.pdb
+C:\Users\Boca\Desktop\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.csprojResolveAssemblyReference.cache
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\bin\Debug\Omov_zakon.exe.config
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\bin\Debug\Omov_zakon.exe
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\bin\Debug\Omov_zakon.pdb
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.Form1.resources
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.Properties.Resources.resources
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.csproj.GenerateResource.cache
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.exe
+D:\mini-projekti tmp\Kol I_1_9_2014\Omov_zakon\Omov_zakon\obj\x86\Debug\Omov_zakon.pdb

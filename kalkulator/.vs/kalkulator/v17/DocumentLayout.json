@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|d:\\mini-projekti tmp\\tmp ik-kredit_kalkulator\\kalkulator\\kalkulator\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|solutionrelative:kalkulator\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|d:\\mini-projekti tmp\\tmp ik-kredit_kalkulator\\kalkulator\\kalkulator\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|solutionrelative:kalkulator\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmpodesavanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{657B3A3D-5787-46C7-9CB0-F28DF326CBBB}|kalkulator\\kalkulator.csproj|solutionrelative:kalkulator\\frmpodesavanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGlavna.cs [Design]",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmGlavna.cs",
+              "RelativeDocumentMoniker": "kalkulator\\frmGlavna.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmGlavna.cs [Design]",
+              "RelativeToolTip": "kalkulator\\frmGlavna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:41:08.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPodesavanja.cs [Design]",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmPodesavanja.cs",
+              "RelativeDocumentMoniker": "kalkulator\\frmPodesavanja.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmPodesavanja.cs [Design]",
+              "RelativeToolTip": "kalkulator\\frmPodesavanja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:23:05.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGlavna.cs",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmGlavna.cs",
+              "RelativeDocumentMoniker": "kalkulator\\frmGlavna.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-kredit_kalkulator\\kalkulator\\kalkulator\\frmGlavna.cs",
+              "RelativeToolTip": "kalkulator\\frmGlavna.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:11:59.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.exe.config
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.exe
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.pdb
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csprojAssemblyReference.cache
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.Properties.Resources.resources
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csproj.GenerateResource.cache
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csproj.CoreCompileInputs.cache
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.exe
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.pdb
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.Formlogin.resources
+C:\Users\Boca\Desktop\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.FormaRacun.resources
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.exe.config
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.exe
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\bin\Debug\IK-kafic.pdb
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.FormaRacun.resources
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.Formlogin.resources
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK_kafic.Properties.Resources.resources
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csproj.GenerateResource.cache
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.exe
+D:\mini-projekti tmp\kolokvijum-kafic\IK-kafic\IK-kafic\obj\Debug\IK-kafic.pdb

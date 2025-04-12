@@ -1,0 +1,45 @@
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.exe
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.pdb
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.exe
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.pdb
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.NoviKontakt.resources
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.frmGlavna.resources
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\dragan.draganic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\dragana.draganic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\gorana.goranovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\ivana.ivanovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\jovan.jovanovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\jovana.jovanovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\marko.markovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\MenGeneric.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\petar.petrovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\WomenGeneric.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\zoran.zoranovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\zorana.zoranovic.jpg
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.exe.config
+C:\Users\Boca\Desktop\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.csprojResolveAssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\dragan.draganic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\dragana.draganic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\gorana.goranovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\ivana.ivanovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\jovan.jovanovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\jovana.jovanovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\marko.markovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\MenGeneric.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\petar.petrovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\WomenGeneric.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\zoran.zoranovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Resources\zorana.zoranovic.jpg
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.exe.config
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.exe
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\bin\Debug\Kontakti.pdb
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.frmGlavna.resources
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.NoviKontakt.resources
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.exe
+D:\mini-projekti tmp\TMP IK-Kontakti\Kontakti\Kontakti\obj\x86\Debug\Kontakti.pdb

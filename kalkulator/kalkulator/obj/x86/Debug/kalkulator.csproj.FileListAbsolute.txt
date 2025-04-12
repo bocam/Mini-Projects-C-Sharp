@@ -1,0 +1,20 @@
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.exe
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.pdb
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.frmGlavna.resources
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.frmPodesavanja.resources
+C:\Users\Boca\Desktop\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.frmGlavna.resources
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.frmPodesavanja.resources
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.exe
+D:\mini-projekti tmp\TMP IK-kredit_kalkulator\kalkulator\kalkulator\obj\x86\Debug\kalkulator.pdb

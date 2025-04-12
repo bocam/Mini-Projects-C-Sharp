@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Proracun_peleta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RadP1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="RadP2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="RadP3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="PauzaP1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="PauzaP2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="PauzaP3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="KalorijskaMoc" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.7</Value>
+    </Setting>
+    <Setting Name="Kolicina" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">220</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

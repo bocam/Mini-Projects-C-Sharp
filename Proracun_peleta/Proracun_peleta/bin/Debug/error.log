@@ -1,0 +1,77 @@
+
+5/18/2023 1:26:16 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+5/18/2023 1:27:03 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+5/18/2023 1:27:33 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+5/18/2023 1:27:34 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+5/18/2023 1:27:45 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+5/18/2023 1:28:42 PM
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 45
+
+10.9.2023 19:44:41
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 46
+
+10.9.2023 19:45:16
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 46
+
+10.9.2023 19:45:30
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 46
+
+10.9.2023 19:45:31
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 46
+
+10.9.2023 19:45:31
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Proracun_peleta.frmGlavnaForma.btnIzracunaj_Click(Object sender, EventArgs e) in C:\Users\Boca\Desktop\TMP IK-PELET\Proracun_peleta\Proracun_peleta\frmGlavnaForma.cs:line 46

@@ -1,0 +1,22 @@
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.exe
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.pdb
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.Form1.resources
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.exe
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.pdb
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\bin\Debug\Resources\Otkljucano.png
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\bin\Debug\Resources\Zakljucano.png
+C:\Users\Boca\Desktop\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.exe.config
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\bin\Debug\Resources\Otkljucano.png
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\bin\Debug\Resources\Zakljucano.png
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.exe.config
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.exe
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\bin\Debug\Sef.pdb
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.Form1.resources
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.exe
+D:\mini-projekti tmp\TMP IK -Sef\Sef\Sef\obj\x86\Debug\Sef.pdb

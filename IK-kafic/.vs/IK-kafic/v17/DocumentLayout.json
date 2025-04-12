@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|d:\\mini-projekti tmp\\kolokvijum-kafic\\ik-kafic\\ik-kafic\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|solutionrelative:ik-kafic\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|d:\\mini-projekti tmp\\kolokvijum-kafic\\ik-kafic\\ik-kafic\\formaracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|solutionrelative:ik-kafic\\formaracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|d:\\mini-projekti tmp\\kolokvijum-kafic\\ik-kafic\\ik-kafic\\artikl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04934C65-5DC8-49A0-98BE-7609FD270F7F}|IK-kafic\\IK-kafic.csproj|solutionrelative:ik-kafic\\artikl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formlogin.cs [Design]",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\Formlogin.cs",
+              "RelativeDocumentMoniker": "IK-kafic\\Formlogin.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\Formlogin.cs [Design]",
+              "RelativeToolTip": "IK-kafic\\Formlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:56:17.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaRacun.cs [Design]",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\FormaRacun.cs",
+              "RelativeDocumentMoniker": "IK-kafic\\FormaRacun.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\FormaRacun.cs [Design]",
+              "RelativeToolTip": "IK-kafic\\FormaRacun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:56:14.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artikl.cs",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\Artikl.cs",
+              "RelativeDocumentMoniker": "IK-kafic\\Artikl.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\kolokvijum-kafic\\IK-kafic\\IK-kafic\\Artikl.cs",
+              "RelativeToolTip": "IK-kafic\\Artikl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:56:05.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

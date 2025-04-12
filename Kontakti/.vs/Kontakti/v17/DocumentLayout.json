@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|d:\\mini-projekti tmp\\tmp ik-kontakti\\kontakti\\kontakti\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|solutionrelative:kontakti\\frmglavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\kontakti\\frmglavna.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|solutionrelative:kontakti\\frmglavna.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\kontakti\\kontaktosoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55022B0-4785-4846-8949-0FFD344642E8}|Kontakti\\Kontakti.csproj|solutionrelative:kontakti\\kontaktosoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGlavna.cs [Design]",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\frmGlavna.cs",
+              "RelativeDocumentMoniker": "Kontakti\\frmGlavna.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\frmGlavna.cs [Design]",
+              "RelativeToolTip": "Kontakti\\frmGlavna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:06:41.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmGlavna.Designer.cs",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\frmGlavna.Designer.cs",
+              "RelativeDocumentMoniker": "Kontakti\\frmGlavna.Designer.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\frmGlavna.Designer.cs",
+              "RelativeToolTip": "Kontakti\\frmGlavna.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:06:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KontaktOsoba.cs",
+              "DocumentMoniker": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\KontaktOsoba.cs",
+              "RelativeDocumentMoniker": "Kontakti\\KontaktOsoba.cs",
+              "ToolTip": "D:\\mini-projekti tmp\\TMP IK-Kontakti\\Kontakti\\Kontakti\\KontaktOsoba.cs",
+              "RelativeToolTip": "Kontakti\\KontaktOsoba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:06:28.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

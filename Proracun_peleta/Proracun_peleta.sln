@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proracun_peleta", "Proracun_peleta\Proracun_peleta.csproj", "{18580CBC-41E5-47B6-B131-1C101EA70B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18580CBC-41E5-47B6-B131-1C101EA70B8B}.Debug|x86.ActiveCfg = Debug|x86
+		{18580CBC-41E5-47B6-B131-1C101EA70B8B}.Debug|x86.Build.0 = Debug|x86
+		{18580CBC-41E5-47B6-B131-1C101EA70B8B}.Release|x86.ActiveCfg = Release|x86
+		{18580CBC-41E5-47B6-B131-1C101EA70B8B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

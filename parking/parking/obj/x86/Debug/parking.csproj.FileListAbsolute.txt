@@ -1,0 +1,19 @@
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\bin\Debug\parking.exe
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\bin\Debug\parking.pdb
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.Properties.Resources.resources
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.csproj.GenerateResource.Cache
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.exe
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.pdb
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.Parking_rezervacija.resources
+C:\Users\Boca\Desktop\TMP IK-parking\parking\parking\obj\x86\Debug\parking.GlavnaForma.resources
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\bin\Debug\parking.exe.config
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\bin\Debug\parking.exe
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\bin\Debug\parking.pdb
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.csproj.AssemblyReference.cache
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.GlavnaForma.resources
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.Parking_rezervacija.resources
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.Properties.Resources.resources
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.csproj.GenerateResource.cache
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.csproj.CoreCompileInputs.cache
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.exe
+D:\mini-projekti tmp\TMP IK-parking\parking\parking\obj\x86\Debug\parking.pdb
